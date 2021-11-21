@@ -2,7 +2,8 @@ aiohttp
 websockets
 chardet
 
-pywin32==301
+pywin32
+pywin32-ctypes
 
 numpy==1.21.2
 altgraph==0.17
