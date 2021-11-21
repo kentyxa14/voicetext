@@ -1,5 +1,4 @@
 aiohttp
-websockets
 
 pywin32
 pywin32-ctypes
