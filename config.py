@@ -1,7 +1,7 @@
 import json
 from googletrans import Translator
 
-TOKEN = "1998008539:AAEYMZWMeZ7VboHI8aP5m7jDVJrDP9fQXqY"
+TOKEN = "token"
 NAME = "Voite Bot"
 DONATE = str("https://www.privat24.ua/rd/transfer_to_card/?hash=rd%2Ftransfer_to_card%2F%7B%22from%22%3A%22%22%2C%22to%22%3A%224149499392280507%22%2C%22amt%22%3A%220%22%2C%22ccy%22%3A%22UAH%22%7D")
 
